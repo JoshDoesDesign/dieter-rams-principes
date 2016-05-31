@@ -1,0 +1,17 @@
+
+@keyframes headerKeyframe { 
+	from {
+		top: 0px;
+	}
+	to {
+		top: 50px;
+	}
+}
+@keyframes textKeyframe { 
+	from {
+		bottom: 90px;
+	} 
+	to {
+		bottom: 60px;
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "name": "dieter-rams",
+  "version": "1.0.0",
+  "description": "Dieter Rams 10 Principles of Good Design",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshDoesDesign/dieter-rams-principes.git"
+  },
+  "keywords": [
+    "dieter",
+    "rams",
+    "principles",
+    "design"
+  ],
+  "author": "Josh Kneeland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshDoesDesign/dieter-rams-principes/issues"
+  },
+  "homepage": "https://github.com/JoshDoesDesign/dieter-rams-principes#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
